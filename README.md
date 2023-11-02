@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [google.com](google.com)
 
-- 📫 How to reach me **chrisjawomolo@gmail.com**
+- 📫 Send me an email at **chrisjawomolo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
