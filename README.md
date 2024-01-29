@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Machine learning**
 
-- 👨‍💻 All of my projects are available on my [personal website](christopherawomolo.github.io)
+- 👨‍💻 All of my projects are available on my [personal website](christopherawomolo.github.io) - Currently being revamped!
 
 - 📫 Send me an email at **chrisjawomolo@gmail.com**
 
